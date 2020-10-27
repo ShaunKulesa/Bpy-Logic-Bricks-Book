@@ -40,4 +40,7 @@ Create:
 ```bpy.ops.logic.actuator_add(type="",name='')```
 
 Type:
-*
+* ACTION
+* CAMERA
+* CONSTRAINT
+* EDIT_OBJECT
