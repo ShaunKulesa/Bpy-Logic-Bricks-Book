@@ -66,8 +66,10 @@ Choose Logic Brick:
 
 Actuator:
 * Actuator: ```bpy.context.object.game.sensors[''].actuator = ''```
+
 Always: 
 * Nothing
+
 Collision:
 * Use Material: ```bpy.context.object.game.sensors[''].use_material = True/False``` 
 * Material: ```bpy.context.object.game.sensors[''].material = ''```
