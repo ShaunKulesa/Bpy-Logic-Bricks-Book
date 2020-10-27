@@ -3,4 +3,4 @@ A book to all Bpy logic brick needs.
 
 # Sensor
 
-```bpy.ops.logic.sensor_add(type="KEYBOARD",name='Forward',object=play.name)```
+```bpy.ops.logic.sensor_add(type="",name='',object=play.name)```
