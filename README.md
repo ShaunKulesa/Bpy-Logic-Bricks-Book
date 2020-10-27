@@ -1,7 +1,7 @@
 # Bpy-Logic-Bricks-Book
 A book to all Bpy logic brick needs.
 # Creating the logic bricks
-# Sensor
+## Sensor
 Create: 
 ```bpy.ops.logic.sensor_add(type="",name='')```
 
@@ -21,7 +21,7 @@ Type:
 * RANDOM
 * RAY
 
-# Controller
+## Controller
 Create: 
 ```bpy.ops.logic.controller_add(type="",name='')```
 
@@ -35,7 +35,7 @@ Type:
 * EXPRESSION
 * PYTHON
 
-# Actuator
+## Actuator
 Create: 
 ```bpy.ops.logic.actuator_add(type="",name='')```
 
