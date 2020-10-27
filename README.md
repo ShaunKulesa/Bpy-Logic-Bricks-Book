@@ -17,3 +17,6 @@ Type:
 * MOVEMENT
 * NEAR
 * PROPERTY
+* RADAR
+* RANDOM
+* RAY
