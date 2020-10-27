@@ -72,6 +72,7 @@ Always:
 
 Collision:
 * Use Material: ```bpy.context.object.game.sensors[''].use_material = True/False``` 
+* Use Pulse: ```bpy.context.object.game.sensors[''].use_pulse = True/False```
 * Material: ```bpy.context.object.game.sensors[''].material = ''```
-* Propert: ```bpy.context.object.game.sensors[''].property = ''```
+* Property: ```bpy.context.object.game.sensors[''].property = ''```
 
