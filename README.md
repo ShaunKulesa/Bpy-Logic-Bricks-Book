@@ -100,4 +100,6 @@ Joystick:
     * Button: ```bpy.context.object.game.sensors[''].button_number = 'BUTTON_A', 'BUTTON_B', 'BUTTON_X', 'BUTTON_Y', 'BUTTON_BACK', 'BUTTON_GUIDE', 'BUTTON_START', 'BUTTON_STICK_LEFT', 'BUTTON_STICK_RIGHT', 'BUTTON_SHOULDER_LEFT', 'BUTTON_SHOULDER_RIGHT', 'BUTTON_DPAD_UP', 'BUTTON_DPAD_DOWN', 'BUTTON_DPAD_LEFT', 'BUTTON_DPAD_RIGHT'```
      
 Keyboard:
-* Key: ```bpy.context.object.game.sensors[''].key = 'A-Z, 0-8, NUMPAD_0-8, ect https://docs.blender.org/api/blender_python_api_2_77_0/bpy.types.KeyboardSensor.html#bpy.types.KeyboardSensor'``` 
+* Key: ```bpy.context.object.game.sensors[''].key = 'A-Z, 0-8, NUMPAD_0-8, ect```
+https://docs.blender.org/api/blender_python_api_2_77_0/bpy.types.KeyboardSensor.html#bpy.types.KeyboardSensor
+
