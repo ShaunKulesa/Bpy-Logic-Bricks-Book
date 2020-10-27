@@ -2,7 +2,7 @@
 A book to all Bpy logic brick needs.
 
 # Sensor
-
+Create: 
 ```bpy.ops.logic.sensor_add(type="",name='')```
 
 Type:
@@ -22,7 +22,7 @@ Type:
 * RAY
 
 # Controller
-
+Create: 
 ```bpy.ops.logic.controller_add(type="",name='')```
 
 Type:
@@ -36,7 +36,7 @@ Type:
 * PYTHON
 
 # Actuator
-
+Create: 
 ```bpy.ops.logic.actuator_add(type="",name='')```
 
 Type:
