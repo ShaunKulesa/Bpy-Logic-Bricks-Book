@@ -1,6 +1,6 @@
 # Bpy-Logic-Bricks-Book
 A book to all Bpy logic brick needs.
-# Chapter 1: Creating the logic bricks
+# Chapter 1: Creating the logic bricks!
 ## Sensor
 Create: 
 ```bpy.ops.logic.sensor_add(type="",name='')```
@@ -59,3 +59,5 @@ Type:
 * STATE
 * VIBRATION
 * VISIBILITY
+
+# Chapter 2: Customizing them!
