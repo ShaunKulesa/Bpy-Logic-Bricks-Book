@@ -9,3 +9,4 @@ Types:
 * ACTUATOR
 * ALWAYS
 * COLLISION
+* DELAY
