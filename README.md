@@ -76,3 +76,7 @@ Collision:
 * Material: ```bpy.context.object.game.sensors[''].material = ''```
 * Property: ```bpy.context.object.game.sensors[''].property = ''```
 
+Delay:
+* Delay: ```bpy.context.object.game.sensors[''].delay = int value```
+* Duration: ```bpy.context.object.game.sensors[''].duration = int value```
+* Use Repeat: ```bpy.context.object.game.sensors[''].use_repeat = True/False```
