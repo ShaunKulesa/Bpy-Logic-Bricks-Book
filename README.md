@@ -61,3 +61,7 @@ Type:
 * VISIBILITY
 
 # Chapter 2: Customizing them!
+Choose Logic Brick:
+```bpy.context.object.game.sensors['test'].```
+Actuator:
+*
