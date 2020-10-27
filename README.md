@@ -83,6 +83,6 @@ Delay:
 
 Joystick: 
 * Joystick Index: ```bpy.context.object.game.sensors[''].joystick_index = 0-7```
-* Event Type: ```bpy.context.object.game.sensors[''].event_type = 'STICK_DIRECTIONS', '', '', ''```
+* Event Type: ```bpy.context.object.game.sensors[''].event_type = 'STICK_DIRECTIONS', '', '', ''```:
   * Stick Directions:
     * bpy.context.object.game.sensors[''].use_all_events = True/False
