@@ -65,4 +65,4 @@ Choose Logic Brick:
 ```bpy.context.object.game.sensors['test'].```
 
 Actuator:
-*
+* Actuator: ```bpy.context.object.game.sensors[''].actuator = ''```
