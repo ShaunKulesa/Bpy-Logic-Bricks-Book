@@ -96,5 +96,6 @@ Joystick:
     * Triggers: ```bpy.context.object.game.sensors['test'].axis_trigger_number = 'LEFT_SHOULDER_TRIGGER, RIGHT_SHOULDER_TRIGGER'```
     * Threshold: ```bpy.context.object.game.sensors[''].axis_threshold = int value```
   * Buttons:
-    *
+    * All Events: ```bpy.context.object.game.sensors[''].use_all_events = True/False```
+    * Button: ```bpy.context.object.game.sensors['test'].button_number = 'BUTTON_A', 'BUTTON_B', 'BUTTON_X', 'BUTTON_Y', 'BUTTON_BACK', 'BUTTON_GUIDE', 'BUTTON_START', 'BUTTON_STICK_LEFT', 'BUTTON_STICK_RIGHT', 'BUTTON_SHOULDER_LEFT', 'BUTTON_SHOULDER_RIGHT', 'BUTTON_DPAD_UP', 'BUTTON_DPAD_DOWN', 'BUTTON_DPAD_LEFT', 'BUTTON_DPAD_RIGHT'```
      
