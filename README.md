@@ -83,10 +83,12 @@ Delay:
 
 Joystick: 
 * Joystick Index: ```bpy.context.object.game.sensors[''].joystick_index = 0-7```
-* Event Type: ```bpy.context.object.game.sensors[''].event_type = 'STICK_DIRECTIONS', '', '', ''```:
+* Event Type: ```bpy.context.object.game.sensors[''].event_type = 'STICK_DIRECTIONS', 'STICK_AXIS', '', ''```:
   * Stick Directions:
-    * All Events: ```bpy.context.object.game.sensors[''].use_all_events = True/False```
-    * Stick: ```bpy.context.object.game.sensors[''].axis_number = 'LEFT_STICK/RIGHT_STICK'```
-    * Stick Direction: ```bpy.context.object.game.sensors[''].axis_direction = 'RIGHTAXIS', 'UPAXIS', 'LEFTAXIS', 'DOWNAXIS'```
-    * Threshold: ```bpy.context.object.game.sensors[''].axis_threshold = int value```
+   * All Events: ```bpy.context.object.game.sensors[''].use_all_events = True/False```
+   * Stick: ```bpy.context.object.game.sensors[''].axis_number = 'LEFT_STICK/RIGHT_STICK'```
+   * Stick Direction: ```bpy.context.object.game.sensors[''].axis_direction = 'RIGHTAXIS', 'UPAXIS', 'LEFTAXIS', 'DOWNAXIS'```
+   * Threshold: ```bpy.context.object.game.sensors[''].axis_threshold = int value```
+  * Stick Axis: 
+   
      
