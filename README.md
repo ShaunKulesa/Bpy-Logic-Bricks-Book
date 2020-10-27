@@ -91,5 +91,6 @@ Joystick:
     * Threshold: ```bpy.context.object.game.sensors[''].axis_threshold = int value```
   * Stick Axis: 
     * Stick Axis: ```bpy.context.object.game.sensors['']single_axis_number = 'LEFT_STICK_HORIZONTAL, LEFT_STICK_VERTICAL, RIGHT_STICK_HORIZONTAL, RIGHT_STICK_VERTICAL'```
+    * Threshold: ```bpy.context.object.game.sensors[''].axis_threshold = int value```
    
      
