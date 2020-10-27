@@ -85,4 +85,5 @@ Joystick:
 * Joystick Index: ```bpy.context.object.game.sensors[''].joystick_index = 0-7```
 * Event Type: ```bpy.context.object.game.sensors[''].event_type = 'STICK_DIRECTIONS', '', '', ''```:
   * Stick Directions:
-    * bpy.context.object.game.sensors[''].use_all_events = True/False
+    * All Events: ```bpy.context.object.game.sensors[''].use_all_events = True/False```
+    * Stick: ```bpy.context.object.game.sensors[''].axis_number = 'LEFT_STICK/RIGHT_STICK'
