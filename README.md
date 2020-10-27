@@ -20,3 +20,7 @@ Type:
 * RADAR
 * RANDOM
 * RAY
+
+# Controller
+
+```bpy.ops.logic.controller_add(type="",name='')```
