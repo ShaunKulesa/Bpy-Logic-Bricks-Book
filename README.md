@@ -5,7 +5,7 @@ A book to all Bpy logic brick needs.
 
 ```bpy.ops.logic.sensor_add(type="",name='')```
 
-Types:
+Type:
 * ACTUATOR
 * ALWAYS
 * COLLISION
