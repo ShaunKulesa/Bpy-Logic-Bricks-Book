@@ -24,3 +24,13 @@ Type:
 # Controller
 
 ```bpy.ops.logic.controller_add(type="",name='')```
+
+Type:
+* LOGIC_AND
+* LOGIC_OR
+* LOGIC_NAND
+* LOGIC_NOR
+* LOGIC_XOR
+* LOGIC_XNOR
+* EXPRESSION
+* PYTHON
