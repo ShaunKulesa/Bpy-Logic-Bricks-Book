@@ -7,3 +7,5 @@ A book to all Bpy logic brick needs.
 
 Types:
 * ACTUATOR
+* ALWAYS
+* COLLISION
