@@ -34,3 +34,7 @@ Type:
 * LOGIC_XNOR
 * EXPRESSION
 * PYTHON
+
+# Actuator
+
+```bpy.ops.logic.actuator_add(type="",name='')```
