@@ -60,7 +60,7 @@ Type:
 * VIBRATION
 * VISIBILITY
 
-# Chapter 2: Customizing Sensors!
+# Chapter 2: Editing the Sensors!
 Choose Logic Brick:
 ```bpy.context.object.game.sensors['test'].```
 
