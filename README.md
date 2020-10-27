@@ -38,3 +38,6 @@ Type:
 # Actuator
 
 ```bpy.ops.logic.actuator_add(type="",name='')```
+
+Type:
+*
