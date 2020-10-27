@@ -1,6 +1,6 @@
 # Bpy-Logic-Bricks-Book
 A book to all Bpy logic brick needs.
-
+## Creating the logic bricks
 # Sensor
 Create: 
 ```bpy.ops.logic.sensor_add(type="",name='')```
@@ -50,4 +50,10 @@ Type:
 * MOUSE 
 * MOTION
 * PARENT
-* 
+* PROPERTY
+* RANDOM
+* SCENE
+* COLLECTION
+* STEERING
+* SOUND
+* STATE
