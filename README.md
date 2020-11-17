@@ -7,7 +7,7 @@ A book to all Bpy logic brick needs.
 - [Controller](#Controller)
   - [Create](#Controller)
 - [Actuator](#Actuator)
-  - [Create](#Create_Actuator_Logic_Brick:)
+  - [Create](#Create_Actuator_Logic_Brick_:)
 
 # Chapter 1: Creating the logic bricks!
 ## Sensor
