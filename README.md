@@ -3,7 +3,7 @@ A book to all Bpy logic brick needs.
 
 
 - [Sensor](#Sensor)
-  - [Create Sensor Logic Brick](#Sensor)
+  - [Create Sensor Logic Brick](Create Controller Logic Brick\:)
   - [Types](#Sensor)
 - [Controller](#Controller)
   - [Create Controller Logic Brick](#Controller)
