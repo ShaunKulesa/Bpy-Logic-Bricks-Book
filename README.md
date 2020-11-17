@@ -3,11 +3,14 @@ A book to all Bpy logic brick needs.
 
 
 - [Sensor](#Sensor)
-  - [Create](#Sensor)
+  - [Create Sensor Logic Brick](#Sensor)
+  - [Types](#Sensor)
 - [Controller](#Controller)
-  - [Create](#Controller)
+  - [Create Controller Logic Brick](#Controller)
+  - [Types](#Controller)
 - [Actuator](#Actuator)
-  - [Create](#Create_Actuator_Logic_Brick_:)
+  - [Create Actuator Logic Brick](#Actuator)
+  - [Types](#Sensor)
 
 # Chapter 1: Creating the logic bricks!
 ## Sensor
