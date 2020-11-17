@@ -1,5 +1,8 @@
 # Bpy-Logic-Bricks-Book
 A book to all Bpy logic brick needs.
+
+- [Actuator](#Actuator)
+
 # Chapter 1: Creating the logic bricks!
 ## Sensor
 Create: 
