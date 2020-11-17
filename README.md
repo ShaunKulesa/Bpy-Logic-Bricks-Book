@@ -3,7 +3,7 @@ A book to all Bpy logic brick needs.
 
 
 - [Sensor](#Sensor)
-  - [Create](#Create_Controller_Logic_Brick)
+  - [Create](#Create_Controller_Logic_Brick:)
 - [Controller](#Controller)
 - [Actuator](#Actuator)
 
@@ -29,7 +29,7 @@ Type:
 * RAY
 
 ## Controller
-Create Controller Logic Brick
+Create Controller Logic Brick:
 ```bpy.ops.logic.controller_add(type="",name='')```
 
 Type:
