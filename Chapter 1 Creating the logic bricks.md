@@ -26,6 +26,8 @@ Type:
 * RANDOM
 * RAY
 
+name: give the brick a unique name for future use
+
 ## Controller
 Create Controller Logic Brick:
 ```bpy.ops.logic.controller_add(type="", name='')```
@@ -40,6 +42,8 @@ Type:
 * EXPRESSION
 * PYTHON
 
+name: give the brick a unique name for future use
+
 ## Actuator
 Create Actuator Logic Brick:
 ```bpy.ops.logic.actuator_add(type="", name='')```
@@ -47,20 +51,22 @@ Create Actuator Logic Brick:
 Type:
 * ACTION
 * CAMERA
+* COLLECTION
 * CONSTRAINT
 * EDIT_OBJECT
 * FILTER_2D
 * GAME
 * MESSAGE
-* MOUSE 
 * MOTION
+* MOUSE 
 * PARENT
 * PROPERTY
 * RANDOM
 * SCENE
-* COLLECTION
-* STEERING
 * SOUND
 * STATE
+* STEERING
 * VIBRATION
 * VISIBILITY
+
+name: give the brick a unique name for future use
