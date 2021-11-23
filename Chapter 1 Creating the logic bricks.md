@@ -8,7 +8,7 @@
 # Chapter 1: Creating the logic bricks!
 ## Sensor
 Create Sensor Logic Brick: 
-```bpy.ops.logic.sensor_add(type="",name='')```
+```bpy.ops.logic.sensor_add(type="", name='')```
 
 Type:
 * ACTUATOR
@@ -28,7 +28,7 @@ Type:
 
 ## Controller
 Create Controller Logic Brick:
-```bpy.ops.logic.controller_add(type="",name='')```
+```bpy.ops.logic.controller_add(type="", name='')```
 
 Type:
 * LOGIC_AND
@@ -42,7 +42,7 @@ Type:
 
 ## Actuator
 Create Actuator Logic Brick:
-```bpy.ops.logic.actuator_add(type="",name='')```
+```bpy.ops.logic.actuator_add(type="", name='')```
 
 Type:
 * ACTION
