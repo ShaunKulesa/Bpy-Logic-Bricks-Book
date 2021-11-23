@@ -26,7 +26,7 @@ Type:
 * RANDOM
 * RAY
 
-name: give the brick a unique name for future use
+name: give the sensor logic brick a unique name
 
 ## Controller
 Create Controller Logic Brick:
@@ -42,7 +42,7 @@ Type:
 * EXPRESSION
 * PYTHON
 
-name: give the brick a unique name for future use
+name: give the controller logic brick a unique name
 
 ## Actuator
 Create Actuator Logic Brick:
@@ -69,4 +69,4 @@ Type:
 * VIBRATION
 * VISIBILITY
 
-name: give the brick a unique name for future use
+name: give the actuator logic brick a unique name
